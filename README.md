@@ -1,0 +1,1 @@
+# algoritm-genetic-for-problem-n-queens
